@@ -10,6 +10,7 @@ namespace WebControll.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
